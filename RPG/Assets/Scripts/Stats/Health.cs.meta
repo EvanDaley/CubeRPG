@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3a9da304f215eb74f9d2265531b25b58
+timeCreated: 1464927414
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - explosionPrefab: {fileID: 156436, guid: 3795762fca73d02478271087c072dd77, type: 2}
+  - damageSpitPrefab: {fileID: 134694, guid: e6f0d8f2e053091439ef4f676317cedb, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

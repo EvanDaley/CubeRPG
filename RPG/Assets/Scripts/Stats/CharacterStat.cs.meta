@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: f67eb42a5db990849bf6151e16a787f1
+timeCreated: 1465822817
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - xpDropPrefab: {fileID: 118420, guid: 7502990a579154b4895b4ce3a1abd63a, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

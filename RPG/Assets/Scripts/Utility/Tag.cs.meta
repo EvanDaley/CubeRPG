@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 4abe38547b9f8ff49b85f192daca019b
+timeCreated: 1465639259
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - playerIcon: {fileID: 196734, guid: bee977face3c86743b91100287f1a68d, type: 2}
+  - npcIcon: {fileID: 196734, guid: 7a0a7908226b38c4daa4f7a900c7a8ad, type: 2}
+  - bossIcon: {fileID: 196734, guid: b4ca9a23570ade94a8ff21a1d516e17d, type: 2}
+  - projectileIcon: {fileID: 128496, guid: 089f91005fec1ca488fcb3882c528056, type: 2}
+  - effectIcon: {fileID: 196734, guid: 7a0a7908226b38c4daa4f7a900c7a8ad, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
